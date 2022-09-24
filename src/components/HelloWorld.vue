@@ -5,9 +5,9 @@
       This page provides an overview of my work in the following areas:
 
       <ul>
-        <li>Satellite Remote Sensing and Deep Learning</li>
-        <li>Automated Reasoning and Formal Modal Logic</li>
-        <li>Digital Financial Reporting and Semantics</li>
+        <li><span style="font-weight:bold;color:cornflowerblue;">Satellite Remote Sensing and Deep Learning</span></li>
+        <li><span style="font-weight:bold;color:cornflowerblue;">Automated Reasoning and Formal Modal Logic</span></li>
+        <li><span style="font-weight:bold;color:cornflowerblue;">Digital Financial Reporting and Semantics</span></li>
       </ul>
 
     </p>
