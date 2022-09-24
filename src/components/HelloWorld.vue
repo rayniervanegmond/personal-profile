@@ -4,9 +4,12 @@
     <p>
       This page provides an overview of my work in the following areas:
 
-      * SatelliteRemote Sensing and Deep Learning
-      * Automated Reasoning and Formal Modal Logic
-      * Digital Financial Reporting and Semantics
+      <ul>
+        <li>Satellite Remote Sensing and Deep Learning</li>
+        <li>Automated Reasoning and Formal Modal Logic</li>
+        <li>Digital Financial Reporting and Semantics</li>
+      </ul>
+
     </p>
   </div>
 </template>
@@ -29,10 +32,10 @@ ul {
   list-style-type: none;
   padding: 0;
 }
-li {
+/* li {
   display: inline-block;
   margin: 0 10px;
-}
+} */
 a {
   color: #42b983;
 }
