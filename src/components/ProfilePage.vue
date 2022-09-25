@@ -1,7 +1,10 @@
 <!-- eslint-disable vue/no-parsing-error -->
 <template>
-  <div class="hello">
-    <h1>Raynier van Egmond - Personal Profile</h1>
+  <div class="">
+    <!-- <img class="text-center w-36" src="../assets/images/profile-foto-use.jpg"> -->
+
+    <div class="text-3xl font-bold text-slate-900">Raynier van Egmond - Personal Profile</div>
+
     <p>
       This page provides an overview of my work in the following areas:
 
@@ -11,8 +14,8 @@
         <li><span style="font-weight:bold;color:cornflowerblue;">Digital Financial Reporting and Semantics</span></li>
       </ul>
 
-      <p class="text-red-400"><i class="fa mr-2 fa-envelope"></i> email : <a href = "mailto: raynierx@gmail.com">raynierx@gmail.com</a></p>
-      <p class="text-red-400"><i class="fa-brands mr-2 fa-linkedin"></i> linked-in : www.linkedin/com/rayniervanegmond</p>
+      <p class="text-center"><i class="fa w-6 fa-envelope"></i> email : <a class="text-blue-900" href = "mailto: raynierx@gmail.com">raynierx@gmail.com</a></p>
+      <p class="text-center"><i class="fa-brands w-6 fa-linkedin"></i> linked-in : <a href="https://www.linkedin.com/in/rayniervanegmond">http://www.linkedin.com/in/rayniervanegmond</a></p>
     </p>
   </div>
 </template>
@@ -34,12 +37,5 @@ h3 {
 ul {
   list-style-type: none;
   padding: 0;
-}
-/* li {
-  display: inline-block;
-  margin: 0 10px;
-} */
-a {
-  color: #42b983;
 }
 </style>

@@ -1,5 +1,5 @@
 <template>
-  <img alt=" Personal logo" src="./assets/logo.png">
+  <img alt=" Personal logo" class="w-20" src="./assets/logo.png">
   <ProfilePage msg="Welcome to Your Vue.js App"/>
 </template>
 
