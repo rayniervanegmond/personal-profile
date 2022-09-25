@@ -1,3 +1,4 @@
+<!-- eslint-disable vue/no-parsing-error -->
 <template>
   <div class="hello">
     <h1>Raynier van Egmond - Personal Profile</h1>
@@ -10,6 +11,8 @@
         <li><span style="font-weight:bold;color:cornflowerblue;">Digital Financial Reporting and Semantics</span></li>
       </ul>
 
+      <p class="text-red-400"><i class="fa mr-2 fa-envelope"></i> email : <a href = "mailto: raynierx@gmail.com">raynierx@gmail.com</a></p>
+      <p class="text-red-400"><i class="fa-brands mr-2 fa-linkedin"></i> linked-in : www.linkedin/com/rayniervanegmond</p>
     </p>
   </div>
 </template>
